@@ -1,8 +1,6 @@
 *{
     margin: 0;
-    padding: 0;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+    font-family:'Montserrat', sans-serif;
 }
 
 header{
@@ -53,15 +51,12 @@ header nav a:hover{
 }
 .header2 .logo{
     line-height: 100px;
-    font-size: 30px;
+    font-size: 30px
 }
-
-
 
 
 main{
     padding: 200px 100px 20px 100px;
-
 }
 
 
