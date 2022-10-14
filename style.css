@@ -228,6 +228,10 @@ footer{
     background-image: url(https://i.pinimg.com/originals/e0/28/7b/e0287b2e47bc1b3ef0fa009abb8ac2b3.png);
 }
 
+.box__footer .address p{
+    font-size: 25px;
+}
+
 .box__footer{
     display: flex;
     flex-direction: column;
